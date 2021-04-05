@@ -31,6 +31,11 @@
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/chenxie95/Trojan/master/trojan-go_install.sh)"
 ```
 
+- 六合一一键脚本支持
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/chenxie95/Trojan/master/SixForOne_install.sh)"
+```
+
 
 ##### Trojan一键安装脚本二选一:
 
