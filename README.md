@@ -28,12 +28,12 @@
 - trojan-go一键脚本支持CDN流量中转等
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/chenxie95/Trojan/master/trojan-go_install.sh)"
+bash -c "$(curl -fsSL https://github.com/chenxie95/Trojan-go/blob/master/trojan-go_install.sh)"
 ```
 
 - 六合一一键脚本支持
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/chenxie95/Trojan/master/SixForOne_install.sh)"
+bash -c "$(curl -fsSL https://github.com/chenxie95/Trojan-go/blob/master/SixForOne_install.sh)"
 ```
 
 
